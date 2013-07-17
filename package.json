@@ -18,7 +18,7 @@
 	"repository": "https://github.com/shinken-monitoring/pack-printers",
 	"keywords": [
 	  "pack",
-	  
+	  "printers" 
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
