@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-printers",
 	"author": "Jean Gabes",
-	"description": "",
+	"description": "Generic pack for all printers",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
